@@ -1,3 +1,9 @@
+# Honest Calculator (Python)
+# https://github.com/imprvhub/honestcalculator-jbrains/
+# Project Completed By Iván Luna, August 15, 2023
+# For Hyperskill (Jet Brains Academy). Course: Python Core
+
+
 logo = """
  _____________________
 |  _________________  |
